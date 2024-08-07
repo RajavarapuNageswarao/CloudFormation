@@ -1,0 +1,120 @@
+Amazon S3 Bucket
+AWS::S3::Bucket
+
+Amazon EC2 Instance
+AWS::EC2::Instance
+
+Amazon DynamoDB Table
+AWS::DynamoDB::Table
+
+Amazon RDS Database Instance
+AWS::RDS::DBInstance
+
+Amazon Lambda Function
+AWS::Lambda::Function
+
+Amazon VPC
+AWS::EC2::VPC
+
+Amazon Security Group
+AWS::EC2::SecurityGroup
+
+Amazon SQS Queue
+AWS::SQS::Queue
+
+Amazon SNS Topic
+AWS::SNS::Topic
+
+Amazon CloudFront Distribution
+AWS::CloudFront::Distribution
+
+Amazon API Gateway
+AWS::ApiGateway::RestApi
+
+Amazon EBS Volume
+AWS::EC2::Volume
+
+Amazon IAM Role
+AWS::IAM::Role
+
+Amazon Kinesis Stream
+AWS::Kinesis::Stream
+
+Amazon Elastic Load Balancer
+AWS::ElasticLoadBalancing::LoadBalancer (Classic Load Balancer)
+AWS::ElasticLoadBalancingV2::LoadBalancer (Application and Network Load Balancer)
+
+Amazon Route 53 Hosted Zone
+AWS::Route53::HostedZone
+
+Amazon CloudWatch Alarm
+AWS::CloudWatch::Alarm
+
+Amazon Elastic Beanstalk Environment
+AWS::ElasticBeanstalk::Environment
+
+Amazon Elastic File System (EFS) File System
+AWS::EFS::FileSystem
+
+Amazon DocumentDB Cluster
+AWS::DocDB::DBCluster
+
+Amazon Redshift Cluster
+AWS::Redshift::Cluster
+
+Amazon Neptune Cluster
+AWS::Neptune::DBCluster
+
+Amazon ElastiCache Cluster
+AWS::ElastiCache::CacheCluster
+
+Amazon Elasticsearch Domain
+AWS::Elasticsearch::Domain
+
+AWS Step Functions State Machine
+AWS::StepFunctions::StateMachine
+
+AWS Glue Job
+AWS::Glue::Job
+
+AWS CloudFormation Stack
+AWS::CloudFormation::Stack
+
+AWS CodePipeline Pipeline
+AWS::CodePipeline::Pipeline
+
+AWS CodeBuild Project
+AWS::CodeBuild::Project
+
+AWS AppSync GraphQL API
+AWS::AppSync::GraphQLApi
+
+AWS Elasticache Replication Group
+AWS::ElastiCache::ReplicationGroup
+
+AWS CodeDeploy Deployment Group
+AWS::CodeDeploy::DeploymentGroup
+
+AWS Service Catalog Portfolio
+AWS::ServiceCatalog::Portfolio
+
+AWS WAF WebACL
+AWS::WAF::WebACL
+
+AWS Global Accelerator Accelerator
+AWS::GlobalAccelerator::Accelerator
+
+AWS Batch Compute Environment
+AWS::Batch::ComputeEnvironment
+
+AWS AppRunner Service
+AWS::AppRunner::Service
+
+AWS IoT Core Thing
+AWS::IoT::Thing
+
+AWS Backup Vault
+AWS::Backup::BackupVault
+
+AWS Budgets Budget
+AWS::Budgets::Budget
