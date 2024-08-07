@@ -1,0 +1,56 @@
+Basic Commands
+terraform init
+   -backend-config="key=value"
+   -from-module=MODULE
+terraform plan
+   -out=PLANFILE
+   -var 'key=value'
+   -var-file=FILE
+terraform apply
+   -auto-approve
+   -var 'key=value'
+   -var-file=FILE
+   -refresh
+terraform destroy
+   -auto-approve
+   -var 'key=value'
+   -var-file=FILE
+terraform validate
+   -json
+terraform fmt
+   -recursive
+   -diff
+terraform output
+   -json
+terraform show
+   -json
+   -no-color
+
+State Management
+terraform state list
+   -state=STATEFILE
+terraform state show
+   -state=STATEFILE
+terraform state rm
+   -state=STATEFILE
+terraform state mv
+   -state=STATEFILE
+terraform state pull
+terraform state push
+
+Workspace Management
+terraform workspace new
+   -var 'key=value'
+   -var-file=FILE
+terraform workspace list
+terraform workspace select
+terraform workspace delete
+
+Miscellaneous
+terraform version
+   -json
+terraform providers
+   -json
+terraform graph
+  -type=TYPE
+terraform console
